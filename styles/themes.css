@@ -6,7 +6,7 @@
 */
 
 :root.theme-light {
-  --mane-font: 'Inter-Variable', sans-serif;
+  --main-font: 'Inter-Variable', sans-serif;
   --same-font: 'PressStart2P', sans-serif;
 
   --fw-page: 400;
@@ -28,7 +28,7 @@
 }
 
 :root.theme-dark {
-  --mane-font: 'Inter-Variable', sans-serif;
+  --main-font: 'Inter-Variable', sans-serif;
   --same-font: 'PressStart2P', sans-serif;
 
   --fw-page: 465;
@@ -51,7 +51,7 @@
 
 @media(prefers-color-scheme: dark) {
   :root {
-    --mane-font: 'Inter-Variable', sans-serif;
+    --main-font: 'Inter-Variable', sans-serif;
     --same-font: 'PressStart2P', sans-serif;
 
     --fw-page: 465;
