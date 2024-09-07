@@ -233,7 +233,6 @@
 
 .card__icon-button:focus {
   outline: none;
-  border: none;
 }
 
 .card__icon-button:focus-visible {
