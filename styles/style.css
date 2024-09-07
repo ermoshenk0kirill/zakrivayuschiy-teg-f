@@ -355,7 +355,7 @@ dialog {
 
 .dialog-open[open] {
   display: grid;
-  grid-template-columns: (39px ,234px);
+  grid-template-columns: repeat(2 ,auto);
   grid-template-rows: repeat(2, auto);
   justify-content: center;
   justify-items: center;
